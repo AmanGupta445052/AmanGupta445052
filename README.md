@@ -2,7 +2,7 @@
 <!-- icons: https://github.com/alexandresanlim/Badges4-README.md-Profile -->
 
 <h1 align="center">
-  <a href="https://ppizarror.com">Hi there 👌 I'm Pablo</a>
+  <a href="https://ppizarror.com">Hi there 👌 I'm Aman Gupta</a>
 </h1>
 
 <p align="center">
