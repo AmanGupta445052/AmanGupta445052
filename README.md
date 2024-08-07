@@ -2,11 +2,11 @@
 <!-- icons: https://github.com/alexandresanlim/Badges4-README.md-Profile -->
 
 <h1 align="center">
-  <a href="https://ppizarror.com">Hi there 👌 I'm Aman Gupta</a>
+  <a href="https://ppizarror.com">Hi there 👌 I'm Aman Raj</a>
 </h1>
 
 <p align="center">
-  I'm a third-year B.Tech CSE student specializing in web development, backed by a strong grasp of data structures and algorithms. Proficient in designing efficient algorithms, I excel in creating dynamic and interactive websites.
+  I'm a fourth-year B.Tech CSE student specializing in web development, backed by a strong grasp of data structures and algorithms. Proficient in designing efficient algorithms, I excel in creating dynamic and interactive websites.
 </p>
 
 <p align="center">
@@ -53,8 +53,6 @@
   <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
   <img alt="Tex/Latex" src="https://img.shields.io/badge/Latex-092E20?style=for-the-badge&logo=latex&logoColor=white" />
-  <img alt="Matlab" src="https://img.shields.io/badge/Matlab-FA7343?style=for-the-badge&logo=matrix&logoColor=white" />
 </p>
